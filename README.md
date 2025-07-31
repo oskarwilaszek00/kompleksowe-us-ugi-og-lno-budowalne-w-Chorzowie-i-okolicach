@@ -1,4 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kompleksowe Usługi Ogólnobudowlane Łukasz Wilaszek</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      color: #ddd;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      padding: 20px;
+      text-align: center;
+      background: #111;
+      border-bottom: 1px solid #333;
+    }
+    header h1 {
+      margin: 0;
+      color: #bfa56a;
+    }
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 10px;
+    }
+    section#info {
+      background: #111;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      line-height: 1.5;
+    }
+    section#info h2 {
+      color: #bfa56a;
+      margin-top: 0;
+    }
+    section#contact {
+      margin-top: 20px;
+      font-size: 16px;
+    }
+    section#contact p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
 
+<header>
   <h1>Kompleksowe Usługi Ogólnobudowlane Łukasz Wilaszek</h1>
   <p>25 lat doświadczenia – solidność, terminowość, profesjonalizm</p>
 </header>
@@ -6,15 +56,7 @@
 <main>
   <section id="info">
     <h2>O mnie</h2>
-    <p>Mam 25 lat doświadczenia w branży remontowo-budowlanej. Przez ten czas zrealizowałem dziesiątki kompleksowych inwestycji – od drobnych prac wykończeniowych, po pełne remonty i modernizacje budynków oraz wnętrz. Moja oferta obejmuje zarówno kompleksowe remonty, jak i szeroko rozumiane usługi ogólnobudowlane, dzięki czemu jestem w stanie sprostać każdemu wyzwaniu – niezależnie od skali i stopnia trudności prac.
-
-Specjalizuję się w wykończeniach wnętrz pod klucz, ale wykonuję również prace takie jak murowanie, tynkowanie, prace elewacyjne, adaptacje poddaszy czy montaż systemów instalacyjnych (elektrycznych i hydraulicznych). Dbam o każdy etap realizacji – od przygotowania, przez dobór odpowiednich materiałów, aż po wykończenie i posprzątanie miejsca pracy.
-
-Każde zlecenie traktuję indywidualnie, z pełnym zaangażowaniem. Zadowolenie klienta i dotrzymanie ustalonych terminów są dla mnie absolutnym priorytetem. Wiem, jak ważna jest solidność i rzetelność w tej branży – dlatego nigdy nie idę na kompromis, jeśli chodzi o jakość wykonania. Pracuję dokładnie, z pełną starannością i z pasją, którą przez lata zyskałem wykonując swoją pracę.
-
-Cenię sobie uczciwą współpracę i transparentność, dlatego zawsze oferuję jasne warunki, rzetelną wycenę i realny harmonogram prac. Chcę, aby moi klienci czuli się bezpiecznie, powierzając mi swoje mieszkania, domy czy lokale użytkowe. Wielu z nich wraca do mnie z kolejnymi zleceniami, co traktuję jako największą formę rekomendacji.
-
-Jeśli szukasz fachowca, który nie tylko zna się na rzeczy, ale też dotrzymuje słowa i dba o detale – zapraszam do kontaktu. Realizuję zlecenia zarówno dla klientów indywidualnych, jak i firm, głównie na terenie Chorzowa i Okolic. Z przyjemnością doradzę i pomogę w zaplanowaniu prac.</p>
+    <p>Oferuję kompleksowe usługi remontowo-budowlane na najwyższym poziomie...</p>
     <h3>Usługi</h3>
     <ul>
       <li>Kompleksowe wykończenia wnętrz</li>
